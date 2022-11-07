@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username> DAVID ARIAS RICO
+   #  DAVID ARIAS RICO
 
    # Input:
    # p, principal amount
